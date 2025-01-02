@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Yemi Omotoso @yemi-js
 - 👀 I’m interested in full time Fullstack Developer jobs
-- 
-- 🌱 Laravel
+- 🌱 Laravel, NodeJS, React Native, Next Js, React Js
 - 💞️ I’m looking to collaborate on anything at all
 - 📫 How to reach me yemi.js247@gmail.com
 
